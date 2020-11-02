@@ -1,5 +1,7 @@
 # Training code of Res2Net on ImageNet
 
+The ImageNet pretrained models is available in [Res2Net-PretrainedModels](https://github.com/Res2Net/Res2Net-PretrainedModels).
+
 This repo is the training code of Res2Net on ImageNet. All results listed in the paper are trained with this script.
 The training script of Res2Net is based on the older version of pytorch example.
 Since the pytorch example been have updated to a new version, to ensure the community to reproduce our results in the paper,
